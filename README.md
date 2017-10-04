@@ -3,7 +3,8 @@
 ## Personal Details  
 
 **Name:** Carsten Rapp  
-**Place and Date of Birth:** Mainz(Germany), 15th December 1980 
+**Place and Date of Birth:** Mainz(Germany), 15th December 1980
+
 **E-Mail:** carsten.rapp@icloud.com    
 
 ## Education  
