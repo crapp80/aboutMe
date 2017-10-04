@@ -10,7 +10,7 @@
 
 **Web Development Courses**
 * Codecademy Learn HTML
-* Codecademy Learn CSS
+* Codecademy Learn CSS  
 * Codecademy Learn JavaScript
 * Wes Bos JavaScript 30 (see this Repo on GitHub)
-* The Odin Project    
+* The Odin Project      
