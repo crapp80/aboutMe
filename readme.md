@@ -13,5 +13,9 @@
 * Codecademy Learn HTML
 * Codecademy Learn CSS  
 * Codecademy Learn JavaScript
-* Wes Bos JavaScript 30 (see this [Repo](https://github.com/crapp80/JavaScript30_Course) on GitHub) 
-* The Odin Project      
+* Wes Bos JavaScript 30 (see this [Repo](https://github.com/crapp80/JavaScript30_Course) on GitHub)
+* The Odin Project
+
+**Books**
+* You don't know JS - Up & Going *by Kyle Simpson*
+* You don't know JS - Scope & Closures *by Kyle Simpson*      
