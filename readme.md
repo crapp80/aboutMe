@@ -10,11 +10,11 @@
 ## Education  
 
 **Web Development Courses**
-* Codecademy Learn HTML
-* Codecademy Learn CSS  
-* Codecademy Learn JavaScript
-* Wes Bos JavaScript 30 (see this [Repo](https://github.com/crapp80/JavaScript30_Course) on GitHub)
-* The Odin Project
+* Codecademy - Learn HTML
+* Codecademy - Learn CSS  
+* Codecademy - Learn JavaScript
+* Wes Bos - JavaScript 30 (see this [Repo](https://github.com/crapp80/JavaScript30_Course) on GitHub)
+* Wes Bos - What the Flexbox?!
 
 **Books**
 * You don't know JS - Up & Going *by Kyle Simpson*
