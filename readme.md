@@ -16,6 +16,9 @@
 * Wes Bos - JavaScript 30 (see this [Repo](https://github.com/crapp80/JavaScript30_Course) on GitHub)
 * Wes Bos - What the Flexbox?!
 
+**Project Management Courses**
+* Sitepoint - Learn Modern Project Management with Agile and Scrum *by Meri Williams*
+
 **Books**
-* You don't know JS - Up & Going *by Kyle Simpson*
-* You don't know JS - Scope & Closures *by Kyle Simpson*      
+* JavaScript: Novice to Ninja *by Darren Jones*
+* Scrum: Novice to Ninja *by M. David Green*
