@@ -15,6 +15,8 @@
 * Codecademy - Learn JavaScript
 * Wes Bos - JavaScript 30 (see this [Repo](https://github.com/crapp80/JavaScript30_Course) on GitHub)
 * Wes Bos - What the Flexbox?!
+* Udemy - The Advanced Web Developer Bootcamp *by Colt Steele*
+* Wes Bos - Learn Node
 
 **Project Management Courses**
 * Sitepoint - Learn Modern Project Management with Agile and Scrum *by Meri Williams*
